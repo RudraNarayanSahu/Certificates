@@ -20,4 +20,15 @@
   <img src="/Docs/Power Supply.jpg">
 </p>
 
+## Webinar on Indutry Internet of Things
+<p align="center">
+  <img src="/Docs/IIOT Webinar.jpg">
+</p>
+
+## Python Certficate
+<p align="center">
+  <img src="/Docs/Python.jpg">
+</p>
+
+
 
