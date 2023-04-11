@@ -20,9 +20,9 @@
   <img src="/Docs/Power Supply.jpg">
 </p>
 
-## Webinar on Indutry Internet of Things
+## Webinar on Industry Internet of Things
 <p align="center">
-  <img src="/Docs/IIOT Webinar.jpg">
+  <img src="/Docs/IIOT webinar.jpg">
 </p>
 
 ## Python Certficate
