@@ -27,7 +27,7 @@
 
 ## Python Certficate
 <p align="center">
-  <img src="/Docs/Python.jpg">
+  <img src="/Docs/PYTHON.jpg">
 </p>
 
 
