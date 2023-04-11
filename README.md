@@ -25,7 +25,7 @@
   <img src="/Docs/IIOT webinar.jpg">
 </p>
 
-## Python Certficate
+## Python Certificate
 <p align="center">
   <img src="/Docs/PYTHON.jpg">
 </p>
