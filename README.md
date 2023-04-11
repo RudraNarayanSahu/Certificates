@@ -10,3 +10,14 @@
   <img src="/Docs/NES 2020.jpg">
 </p>
 
+## Digial CMOS VLSI 
+<p align="center">
+  <img src="/Docs/CMOS.jpg">
+</p>
+
+## Design of regulated power supply with variable input using PCB and IOT
+<p align="center">
+  <img src="/Docs/Power Supply.jpg">
+</p>
+
+
